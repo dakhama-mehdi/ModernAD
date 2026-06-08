@@ -32,3 +32,11 @@ The original Modern_ActiveDirectory repository remains available as an archived 
 ## Contributions
 
 Feedback, bug reports, and community contributions are welcome.
+
+## History
+
+ModernAD Community is the successor of the original Modern_ActiveDirectory project.
+
+The original project was created to provide a simple and practical Active Directory health assessment tool. As adoption grew and new requirements emerged, a new repository was created to provide a cleaner foundation for future development.
+
+For more details, see HISTORY.md.
