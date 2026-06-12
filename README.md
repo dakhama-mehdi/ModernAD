@@ -8,6 +8,10 @@ This repository starts from the latest stable version of Modern_ActiveDirectory 
 
 Current status: Work in progress.
 
+## Examples
+
+[View Online Example ](https://dakhama-mehdi.github.io/BruteForce-Detector/Examples/ModernAD.html) 
+
 ## Objectives
 
 - Active Directory health assessment
