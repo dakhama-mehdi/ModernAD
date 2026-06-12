@@ -10,7 +10,7 @@ Current status: Work in progress.
 
 ## Examples
 
-[View Online Example ](https://dakhama-mehdi.github.io/BruteForce-Detector/Examples/ModernAD.html) 
+[View Online Example ](https://dakhama-mehdi.github.io/ModernAD/Examples/ModernAD.html) 
 
 ## Objectives
 
